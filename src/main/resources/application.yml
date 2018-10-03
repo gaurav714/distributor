@@ -1,0 +1,10 @@
+spring:
+ data:
+   mongodb:
+     uri: mongodb://localhost/DistributorServiceDB
+     
+     database: DistributorServiceDB
+     port: 27017
+     host: localhost
+server:
+ port: 8086
